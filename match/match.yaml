@@ -1,5 +1,5 @@
-train: /train
-val: /val
+train: ./train
+val: ./val
 #test: ./test/
 
 # number of classes
