@@ -1,5 +1,5 @@
 train: C:/Users/ei/OneDrive/ドキュメント/Python/yolov5/match/train
-val: C:/Users/ei/OneDrive/ドキュメント/Python/yolov5/match/val
+val: C:/Users/ei/OneDrive/ドキュメント/Python/yolov5/match//////val
 #test: ./test/
 
 # number of classes
