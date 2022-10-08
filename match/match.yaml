@@ -1,6 +1,6 @@
-train: ./train
-val: ./val
-#test: ./test/
+train: C:\Users\ei\OneDrive\ドキュメント\Python\yolov5\match\train\images
+val: C:\Users\ei\OneDrive\ドキュメント\Python\yolov5\match\val\images
+#test: /content/drive/MyDrive/match/test/
 
 # number of classes
 nc: 1
