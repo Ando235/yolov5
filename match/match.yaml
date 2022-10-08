@@ -1,5 +1,7 @@
-train: C:\Users\ei\OneDrive\ドキュメント\Python\yolov5\match\train\images
-val: C:\Users\ei\OneDrive\ドキュメント\Python\yolov5\match\val\images
+#train: C:\Users\ei\OneDrive\ドキュメント\Python\yolov5\match\train\images
+#val: C:\Users\ei\OneDrive\ドキュメント\Python\yolov5\match\val\images
+train: ./train/images
+val: ./val/images
 #test: /content/drive/MyDrive/match/test/
 
 # number of classes
